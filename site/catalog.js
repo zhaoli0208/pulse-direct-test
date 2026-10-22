@@ -1,0 +1,1 @@
+window.PULSE_SONGS=[{"id":"rainbow-beat","title":"彩虹节拍","artist":"易言 / 肥皂菌丨珉珉的猫咪丨 / 赵方婧","subtitle":"彩虹节拍","tag":"旋律拾光","seed":8011,"color":"#9acabd","bpm":129.199,"beats":128,"duration":214.0827,"source":"用户提供的 NCM 音频","instrumental":false}];

@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "checks": [
+    "GitHub project subpath",
+    "single-song catalog",
+    "8 playable charts",
+    "complete audio decode",
+    "practice seek",
+    "lyrics",
+    "no external requests",
+    "desktop and mobile layouts"
+  ],
+  "sessions": [
+    {
+      "lanes": 4,
+      "level": "easy",
+      "notes": 268,
+      "duration": 214.0826875
+    },
+    {
+      "lanes": 4,
+      "level": "normal",
+      "notes": 473,
+      "duration": 214.0826875
+    },
+    {
+      "lanes": 4,
+      "level": "hard",
+      "notes": 573,
+      "duration": 214.0826875
+    },
+    {
+      "lanes": 4,
+      "level": "expert",
+      "notes": 1234,
+      "duration": 214.0826875
+    },
+    {
+      "lanes": 6,
+      "level": "easy",
+      "notes": 268,
+      "duration": 214.0826875
+    },
+    {
+      "lanes": 6,
+      "level": "normal",
+      "notes": 473,
+      "duration": 214.0826875
+    },
+    {
+      "lanes": 6,
+      "level": "hard",
+      "notes": 573,
+      "duration": 214.0826875
+    },
+    {
+      "lanes": 6,
+      "level": "expert",
+      "notes": 1237,
+      "duration": 214.0826875
+    }
+  ],
+  "external": []
+}
