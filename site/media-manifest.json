@@ -1,0 +1,405 @@
+{
+  "release": "d9a432aa758efb3de1f82635",
+  "songs": {
+    "dont-take-me": {
+      "bytes": 5369510,
+      "sha256": "91a47c7f6086822a3691f138860af5796cd737d18885def2153ede8523135267"
+    },
+    "fleeting": {
+      "bytes": 3577005,
+      "sha256": "896adac59c8215151e500c1f000c492276bdc2f8f8e059486b73a7513d012844"
+    },
+    "frost-sky": {
+      "bytes": 9623782,
+      "sha256": "b654cb6ab3dd6016bde5c7e7d01dda494bf06271f32f7fa670b57805a54cb4e8"
+    },
+    "wind-tells": {
+      "bytes": 9078124,
+      "sha256": "9f525340f1f87f67a18db314fb31b297ba0a3f3af26feda5db1ee381c86bf6d8"
+    },
+    "hui-spring": {
+      "bytes": 9103393,
+      "sha256": "2cf99859302dce3784c78f47334c4ff3b3d8b2fafbd53b0793edead5a827fec7"
+    },
+    "hui-home": {
+      "bytes": 6649968,
+      "sha256": "85d1112e80eb0a2ee3929c57cf6bda8a00b9bd49902ec86afdba9567045f88ba"
+    },
+    "hui-fireworks": {
+      "bytes": 5745095,
+      "sha256": "13ee880417b966ff628becd10af80509269965684c13c98091aa150fbaeb22cf"
+    },
+    "hui-woodwhale": {
+      "bytes": 8305087,
+      "sha256": "e52ba303b5f0e30a858c360aa2fc7d983bc9fb453e54d2f67f9b35bae5bf01de"
+    },
+    "hui-forest": {
+      "bytes": 7502609,
+      "sha256": "2f0f4572450966482d3e4bdca954b9e27ec4f4c3733f1a06e015cc9dd7dd94b5"
+    },
+    "hui-rootless": {
+      "bytes": 4054435,
+      "sha256": "ef9223cc3e4a0a297ae053f5af73f701808b33d326f26838dc2f2c9277007381"
+    },
+    "hui-star-tea": {
+      "bytes": 7874593,
+      "sha256": "fafe9ac1db53e93d0ee8018e9efe306d0c186dc72a69352e2c89cb43bb628399"
+    },
+    "hui-fireflies": {
+      "bytes": 8407491,
+      "sha256": "a9eee67e568abdbe00ba1eb36cf5f827b43cef2bcb595f2d3b6a0d028a25983d"
+    },
+    "goodbye": {
+      "bytes": 4647213,
+      "sha256": "80a731ebd0086151d7c120c83908ff86881a7c806163a1cac4d7a6ef1b69d017"
+    },
+    "unbound": {
+      "bytes": 11275762,
+      "sha256": "7c63595bf3ddc17dc589d4ff3a72c5040d4e894ee661850123ab7bb87da6de65"
+    },
+    "from-ashes": {
+      "bytes": 11269086,
+      "sha256": "ffca5c51fa2000a548b5e70f0d717f9d31d9137e6d60da785574dc348f561096"
+    },
+    "summer-fades": {
+      "bytes": 10868242,
+      "sha256": "6cd2660595a833d8424cb350ae0db7a801c571b625754c24215704135956bdd6"
+    },
+    "great-joy": {
+      "bytes": 7253939,
+      "sha256": "977aee62a95a302c9fd0cb48e4a4f6bc10a6cdb47f9c6df1f9c75f9902ddf0bd"
+    },
+    "medals": {
+      "bytes": 8560040,
+      "sha256": "daa16036750c1e7aa4e55b771fa3de5afcaddbbfebd52c1904814fbdf599bc00"
+    },
+    "star-question": {
+      "bytes": 9603256,
+      "sha256": "71d59aa1e1aae954d5046e97b2f6b8eaea95cd6c1b051154a6cc6664cabb63f3"
+    },
+    "twinflower": {
+      "bytes": 9865263,
+      "sha256": "cc6d9f1c7b1601e969741e0848a85deb1d7b201581dd189b6eb374062872bbbb"
+    },
+    "frc": {
+      "bytes": 3625054,
+      "sha256": "fa5be908466cfeb5b591b05e4c7b50319e0782b6f86d6d6afaf578aa58d938f0"
+    },
+    "lit-var": {
+      "bytes": 5395121,
+      "sha256": "5c37d36f5c9a33e111f3c4ed58073693e7f31b88500871e5ff6e0e9eeebde865"
+    },
+    "zerosum-synthv": {
+      "bytes": 12019831,
+      "sha256": "564edc9c546d32eb1596297d9893f04ef349fa7094e5f6370ee840e6dff7c57c"
+    },
+    "light": {
+      "bytes": 5380014,
+      "sha256": "9f7f6aad86bdb7ced2cb058ce7d003f5246f144ce85c6ac5125d36890c93103e"
+    },
+    "pollen": {
+      "bytes": 3103391,
+      "sha256": "10d348d046dddf211599354ed22a6e98eaec6f74ff374a43ace4e8a8aa8c5d1f"
+    },
+    "moonboat": {
+      "bytes": 3206626,
+      "sha256": "84763b5f0c0c0ade9ca13be4e999d1ebdb5efd8aff1bd8d06ba031b754dfc838"
+    },
+    "bamboo-dream": {
+      "bytes": 9766030,
+      "sha256": "fa159d9100a8c0b1cbe24d75d4d9fddfe9ef6249c0651aefe10ff2bbc2ea3244"
+    },
+    "dystopia": {
+      "bytes": 6083646,
+      "sha256": "a59d609374c82e8a2c208dc31bb256439f0d67ace6ae6f07d9312cf15fa87378"
+    },
+    "mountains": {
+      "bytes": 13855793,
+      "sha256": "68d44a7865263f163a391e947d017c4d729815e426bc4573c6f672ca718ad2ce"
+    },
+    "pillow-tale": {
+      "bytes": 7641609,
+      "sha256": "e070161f93b6028160f3ced1a6abcc4b17c8583c9d1046f03780a90fb2771ea5"
+    },
+    "zerosum-vocaloid": {
+      "bytes": 12019829,
+      "sha256": "1cc2be69ccdfe894cedb268971140a5f1419bf2adb000f6480905db388f19280"
+    },
+    "deer-call": {
+      "bytes": 7873531,
+      "sha256": "55e723cb6b0b7d9d11607ea61dc9ffb68f6fc14efcfcb812df222768050e93a4"
+    },
+    "glass-candy": {
+      "bytes": 9030255,
+      "sha256": "48675fae6985cf03500270295a19f775d113e6022344c031558de8735e05fa0d"
+    },
+    "cicada-song": {
+      "bytes": 7939381,
+      "sha256": "d12f402b37775f416ec571c59f76577599f69ddf8438bcdd626b7386a8b1c600"
+    },
+    "dialect-world": {
+      "bytes": 11997871,
+      "sha256": "80825c0a82add251f48743cab12b330938661cf28d6f5cc4770189446c569464"
+    },
+    "moonfall": {
+      "bytes": 8269808,
+      "sha256": "453d1410efdbb72d89235bb00d06a78e75b8622d8fd12997d56ef09274242a63"
+    },
+    "rainbow-beat": {
+      "bytes": 8567418,
+      "sha256": "1ccf12bf3c1fa03b7b11bc101f7054e53b6ea55f34e4237d902071206b2993b0"
+    },
+    "hongzhaoyuan": {
+      "bytes": 6932490,
+      "sha256": "32da4c4a054a10ba7205688e2e9862a197ac4294ed0d984369b98fdd98bc24e7"
+    },
+    "solar-01": {
+      "bytes": 7337529,
+      "sha256": "0b0173a1f014c332dba11e4558e78d0dbec7fb22eca92217fa5732b5e45b5764"
+    },
+    "solar-02": {
+      "bytes": 11788795,
+      "sha256": "c3552a538dc2435516976cca27299554720c4d8ae3fd19888bf0a135e6fbf7d6"
+    },
+    "solar-03": {
+      "bytes": 9028172,
+      "sha256": "05b46a0ca2a3a62765ee7a1836fe0b7e01010e119c3fcc8960699861751380ac"
+    },
+    "solar-04": {
+      "bytes": 9036533,
+      "sha256": "0511c92fa3d53646e4577425ae3c5d1e38648b9719de9f2f2513236715f101e3"
+    },
+    "solar-05": {
+      "bytes": 9943507,
+      "sha256": "9288d0e52286edce79560db43b545e940552f3d1b2801411f3c687291ee0fcf9"
+    },
+    "solar-06": {
+      "bytes": 11369790,
+      "sha256": "a92b1d4a483056a839b953c806f2cb0bff28dbc4ea9ded75f96986faf5832b4c"
+    },
+    "solar-07": {
+      "bytes": 8451390,
+      "sha256": "65886cd2c22100f9b2b07af5e6d910531a17e29462003d061de1b43621cb5e5e"
+    },
+    "solar-08": {
+      "bytes": 8963392,
+      "sha256": "549d26cde68b7fa275d19dc3159337be78d04527eae108ab8f59b9bc043d59d5"
+    },
+    "solar-09": {
+      "bytes": 9269548,
+      "sha256": "708a4ce2c20c6752abdbd660568828dd56c66ca324ee95b6493a1594b0c14f11"
+    },
+    "solar-10": {
+      "bytes": 7654133,
+      "sha256": "3f2e7aae8f84bc306bdd92ab28b3ec15e496d1eec2faa8cadf6cddf2b2316d34"
+    },
+    "solar-11": {
+      "bytes": 8004176,
+      "sha256": "325a25c91f3e5b86187e667aa9d9647bf11b8365231041bea70dd90766d545c8"
+    },
+    "solar-12": {
+      "bytes": 8643654,
+      "sha256": "52af661b8a1c6dbd87fa0aec9952c09268b0bd7491ad2a0a2d278f5645d6b23a"
+    },
+    "solar-13": {
+      "bytes": 9682280,
+      "sha256": "25be58ea81da9c32a77087ea00e379068d086d30c83621345d7e5eb6b642d78a"
+    },
+    "solar-14": {
+      "bytes": 8265399,
+      "sha256": "8ec739339d3af73611a8ad7eac294a5ba084ab7158cbe864147532ae3b10fc21"
+    },
+    "solar-15": {
+      "bytes": 9139980,
+      "sha256": "0c379f99c1860101d3877d5600f6b42b555d7f662e28a81c7f5a0568726fa882"
+    },
+    "solar-16": {
+      "bytes": 10076215,
+      "sha256": "8e532d5bcd3542b91a8a430e58cb29448de280ed6eaa5eb46e38d5a6ce30332b"
+    },
+    "solar-17": {
+      "bytes": 6577898,
+      "sha256": "99a4b0ae848378b99f70cceee4b808c701149505531243edf41550f198f30d4a"
+    },
+    "solar-18": {
+      "bytes": 8895472,
+      "sha256": "90f7fb4dcfd56398680ea1288810b0dce48f3953cfbe1dd124ac0d325e439742"
+    },
+    "solar-19": {
+      "bytes": 10594478,
+      "sha256": "dc99465466cb0c1f5c14c0599674df3fbd9fc87b58099f1e5d489dc35f6ee8eb"
+    },
+    "solar-20": {
+      "bytes": 8329139,
+      "sha256": "de1297913dc936d49a848d56e9e99f0d55822b6942d15324d76b51e2c3e056d1"
+    },
+    "solar-21": {
+      "bytes": 8643652,
+      "sha256": "e8a03c14543ea09189c63f5b30c731fca8f41d4c349a60059218bf44337a9e2d"
+    },
+    "solar-22": {
+      "bytes": 6692829,
+      "sha256": "8f20f97a8cce6b289baa141961832d6aa6cf59d2829d05f7935eb42c973d4203"
+    },
+    "solar-23": {
+      "bytes": 10883915,
+      "sha256": "fcc04082c75438b5313244db32ba4feeb3423f6c8d3caaa724bc447c2c342df9"
+    },
+    "solar-24": {
+      "bytes": 10311311,
+      "sha256": "01347c8c2cc888adc658564567c75a4304997c16d71a6b5df5d2c717d8c4553d"
+    },
+    "joy-journey": {
+      "bytes": 9742585,
+      "sha256": "eef25e96f4c0231c2239801319909a36f78dc0ce2fe0b26575dcd54f780022b6"
+    },
+    "legends-never-die": {
+      "bytes": 9404423,
+      "sha256": "f13285bdf6c5e1ee3812b51ebbb1ae07262d13e2b3af98b8ff384d5f3420d23f"
+    },
+    "phoenix": {
+      "bytes": 7909154,
+      "sha256": "2d3db2a6d48633c8a92190b5a2fdf7bea8830df78acc3cf5f21dd96fa29d6efe"
+    },
+    "rise": {
+      "bytes": 7718981,
+      "sha256": "948c7c49b76ffd2cfab1850add142d6e87155cc4c6e4b7cf9a5a5562bdf27ce2"
+    },
+    "burn-it-all-down": {
+      "bytes": 8077371,
+      "sha256": "9a9ce5d6331e395ff6b4df8c2a803ee21d56ceba709ed916011af90873af95b4"
+    },
+    "once-before": {
+      "bytes": 9744974,
+      "sha256": "c2a2c8b72e117332f2b62ea4afe8f18fc3c69245095111f01986305be171885a"
+    },
+    "universe-fragments": {
+      "bytes": 8228504,
+      "sha256": "6aa47b393a5b14eb00faa4fd64bf5700cb351485b1c9d1472ae67c5810dd73b2"
+    },
+    "visions": {
+      "bytes": 7956117,
+      "sha256": "48b81d2c2c8ae2b351ea444e5010e604a800d42d5cd084de9fbc4ccfddb17ce5"
+    },
+    "alone-walker": {
+      "bytes": 6329213,
+      "sha256": "d74513e9035256a55e7c8b3e5627606b90a8485b4a7413f87729307710569e90"
+    },
+    "faded": {
+      "bytes": 8508870,
+      "sha256": "c1b50ed8329a46d67924fcdddaad453d5854e1fa8d499c27aaf65dced1d6cdae"
+    },
+    "different-world": {
+      "bytes": 8120268,
+      "sha256": "071bd0b3fc16dd374aa0c6a29d1d5530c11e5e4713a906cb763502e268a5fabd"
+    },
+    "diamond-heart": {
+      "bytes": 9597714,
+      "sha256": "a8c86882ce7b25731b1feaeabf97d003e12c131731509f0e1a0f82a8900901d5"
+    },
+    "you-nirvana": {
+      "bytes": 13972677,
+      "sha256": "c566713c671a32c24192401c367242c95227886d0b776b37b0408106899902a6"
+    },
+    "rain-decade": {
+      "bytes": 6066582,
+      "sha256": "95fb992fef017b8e8446ddfaa4b7f0de1203677d6cb828845954b683ed3ff985"
+    },
+    "time-box": {
+      "bytes": 11491566,
+      "sha256": "a5bdbcb2e62b3d410300636079933c5aa9de66df555fad30e0d27ae52c5060d1"
+    },
+    "ling-prayer": {
+      "bytes": 9503013,
+      "sha256": "079aa5bb672ad9fb7d20e0605ddaef43301c8822a7922b6d31cce02543a7a41f"
+    },
+    "nonbiri": {
+      "bytes": 13233505,
+      "sha256": "c2661337a7638074ab5f6bfa156c1f325c7cc91a73c15e351843b4e8cf3a6e87"
+    },
+    "lucky-words": {
+      "bytes": 10755264,
+      "sha256": "76b1a698ae9d9b56f46f4e71e6f29d839aab0487423bfca2e051e0248cbeb66d"
+    },
+    "ngau-hung": {
+      "bytes": 3031525,
+      "sha256": "216e993c6ba822c8ce411fdb4108f405ad96e579c7212ecc6f9d75362e97d6a7"
+    },
+    "monodrama": {
+      "bytes": 4864295,
+      "sha256": "d95dc545a1d16241f1a40af082c0219ae8c01b9027b72f7b61aecaa33f1d9b92"
+    },
+    "teleology": {
+      "bytes": 10869650,
+      "sha256": "47d74c41f692636f4ac1a10cd561183a1fbeccec9f6c2dc6d4c11663087f1270"
+    },
+    "alone-marshmello": {
+      "bytes": 10956019,
+      "sha256": "1ddee111b658fa53c146a20b1e6817c1e64ce5eabf66583cc21834a61249c34e"
+    },
+    "classroom": {
+      "bytes": 3291693,
+      "sha256": "e77f324764f0f252f69144e780c040d89cd6a05c03c87343c9d622522b794d1f"
+    },
+    "tian": {
+      "bytes": 3978285,
+      "sha256": "a7f809a6b48e2585225c882e7255e349f7bb1bf24d8eca64ab7d4bb91bfa9b81"
+    },
+    "iron": {
+      "bytes": 3882669,
+      "sha256": "3cdbb689477ae09bed23365b95ef559ed414abb2fdc094e1552350180e824bc8"
+    },
+    "lament": {
+      "bytes": 3581997,
+      "sha256": "601a6e3c0a07f67db41ad116342d0fb7c66c1b5fb38d03970fa36a415a641587"
+    },
+    "gods": {
+      "bytes": 8839060,
+      "sha256": "4a6ddd2d7664808b9b3d423471c504530c5a6c66a94469635c6ef61942c510a2"
+    },
+    "beyond-time": {
+      "bytes": 8587584,
+      "sha256": "5bcefca2e109cfcd0af15f6fbf670baadcf21fadf6eee7b294f2a3f92ccf1669"
+    },
+    "damidami": {
+      "bytes": 7789188,
+      "sha256": "62780b0ebe2aa3c35306c94a92382c805f799f8ab4a21b3985f4f8dc18f29100"
+    },
+    "unity": {
+      "bytes": 9974858,
+      "sha256": "fe38fc2e53386f6eafe3efa32687985b3b5d7bfc327630022ddd5df7d1a5d0a9"
+    },
+    "windfall": {
+      "bytes": 9138951,
+      "sha256": "f04dc18d2086a52b3489e5ee71d8c5923852a60b95a3b258dcba0b56f4891f2d"
+    },
+    "xenogenesis": {
+      "bytes": 9339584,
+      "sha256": "1b982b37185893010b81c753a32950310be84d2844280e7c4374b96c966cb214"
+    },
+    "monody": {
+      "bytes": 11622690,
+      "sha256": "d8cfb158d074266c4842175c9764088d30b914a795ca9383e85c6316604ac978"
+    },
+    "anywhere-i-go": {
+      "bytes": 8002120,
+      "sha256": "d0465ea25effd2be569674c101249d674c1d72a690dd7e821246a1978dadf6c5"
+    },
+    "nevada": {
+      "bytes": 8345900,
+      "sha256": "772e725746076b898b983bd3e8fa4b4611ed2714beb8372e830ad0af0848b4b2"
+    },
+    "way-back": {
+      "bytes": 8359489,
+      "sha256": "c7d9921b243a29b4945ad2356508fccb6b3a65e1ca3a62ae2c07c63d503cdabe"
+    },
+    "new-kings": {
+      "bytes": 8894495,
+      "sha256": "612d37b68dcda0bb16cfe38040b92e33765297443dd30f671e25ab3f709f7110"
+    },
+    "rabbit": {
+      "bytes": 8726211,
+      "sha256": "dc189178daed320ef3bef5ec14a974cb83199a3db1867b7afd2455fc49f03308"
+    }
+  }
+}

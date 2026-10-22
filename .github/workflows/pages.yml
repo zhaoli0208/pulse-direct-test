@@ -1,4 +1,4 @@
-name: Deploy PULSE test
+name: Deploy PULSE
 on:
   push:
     branches: [main]
